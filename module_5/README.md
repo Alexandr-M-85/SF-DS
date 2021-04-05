@@ -20,3 +20,5 @@
 
 ## Результат
  - score ROC-AUC = 0.73956, 18 место на kaggle из 231 командs закрытого соревнования (Топ 8%).
+
+[Профиль на kaggle](https://www.kaggle.com/momotovalexandr85)
