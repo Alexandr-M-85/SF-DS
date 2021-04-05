@@ -22,3 +22,5 @@
 ## Результат
  - score - 0.16885;
  - 29 место на kaggle из 468 команд (Топ 7%) на 09.03.2021
+
+[К соревнованию на kaggle](https://www.kaggle.com/c/sf-dst-restaurant-rating)
